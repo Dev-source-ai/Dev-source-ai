@@ -1,4 +1,4 @@
-Artificial Intelligence Experts in Jordan
+### Artificial Intelligence Experts in Jordan
 
 At Artificial Intelligence Experts in Jordan, we are a team of highly skilled professionals dedicated to advancing AI technology and driving innovation across industries. With over a decade of experience in the field, our expertise spans a wide range of AI disciplines, including machine learning, deep learning, image processing, data mining, and data science.
 
@@ -21,7 +21,7 @@ With a strong foundation in both research and industry applications, we are comm
 📩 Contact us to explore how AI can revolutionize your business!
 
 
-<h2>My Tech Stack</h2>
+<h2>Our Tech Stack</h2>
 
 <table>
   <thead align="center">
