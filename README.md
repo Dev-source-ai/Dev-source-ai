@@ -4,7 +4,7 @@ At Artificial Intelligence Experts in Jordan, we are a team of highly skilled pr
 
 Our team consists of PhD holders, MSc, and BSc professionals, each bringing a wealth of knowledge and research-driven insights to tackle complex AI challenges. We specialize in developing cutting-edge AI solutions that empower businesses, enhance decision-making, and optimize processes.
 
-Our Expertise Includes:
+### Our Expertise Includes:
 
 ✔ Machine Learning & Deep Learning – Predictive modeling, neural networks, and AI-driven automation.
 
