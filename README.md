@@ -1,6 +1,24 @@
-### Hi there 👋
+Artificial Intelligence Experts in Jordan
 
-Thanks for stopping by! I'm Hamza Turabieh, currently living in  Kansas, USA. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
+At Artificial Intelligence Experts in Jordan, we are a team of highly skilled professionals dedicated to advancing AI technology and driving innovation across industries. With over a decade of experience in the field, our expertise spans a wide range of AI disciplines, including machine learning, deep learning, image processing, data mining, and data science.
+
+Our team consists of PhD holders, MSc, and BSc professionals, each bringing a wealth of knowledge and research-driven insights to tackle complex AI challenges. We specialize in developing cutting-edge AI solutions that empower businesses, enhance decision-making, and optimize processes.
+
+Our Expertise Includes:
+
+✔ Machine Learning & Deep Learning – Predictive modeling, neural networks, and AI-driven automation.
+
+✔ Image Processing & Computer Vision – Object detection, facial recognition, medical imaging, and more.
+
+✔ Data Science & Big Data Analytics – Extracting actionable insights from vast amounts of data.
+
+✔ Data Mining & Pattern Recognition – Identifying hidden trends and relationships within complex datasets.
+
+✔ Natural Language Processing (NLP) – AI-driven text analysis, sentiment analysis, and chatbot development.
+
+With a strong foundation in both research and industry applications, we are committed to delivering innovative, scalable, and efficient AI solutions that transform businesses and industries. Whether you're looking to implement AI in healthcare, finance, manufacturing, or any other sector, we are your trusted AI partners in Jordan.
+
+📩 Contact us to explore how AI can revolutionize your business!
 
 
 <h2>My Tech Stack</h2>
